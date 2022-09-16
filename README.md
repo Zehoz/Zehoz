@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-👋 I'm @Zehoz. 
+-📃 I'm obtaining my BSc in BRAC University. 
+-🏫 I'm currently studying Computer Science and Engineering. 
+-👀 I'm interested in Programming and Cyber Security related topics.
